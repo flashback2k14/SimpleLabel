@@ -1,0 +1,2 @@
+# SimpleLabel
+JavaBeans GUI Component
